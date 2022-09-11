@@ -3,15 +3,18 @@
     "method": "direct",
     "filename": "fabric-api-0.46.1+1.18.jar",
     "download": "https://raw.githubusercontent.com/guoguo909/mczdgx/main/fabric-api-0.46.1+1.18.jar"
+    "md5":"e3248e632338917207d983ee4d192834"
   },
   {
     "method": "direct",
     "filename": "modmenu-3.0.1.jar",
     "download": "https://raw.githubusercontent.com/guoguo909/mczdgx/main/modmenu-3.0.1.jar"
+    "md5":"9411d9c800ef983de97aa641e791f276"
   },
   {
     "method": "direct",
     "filename": "zdgx1.jar",
     "download": "https://raw.githubusercontent.com/guoguo909/mczdgx/main/zdgx1.jar"
+    "md5":"fa21d1dc372b1296b0c70c5974987090"
   }
 ]
